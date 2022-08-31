@@ -5,7 +5,7 @@ This repository contains a German data set created for query-based summarization
 
 ## Licence and Usage
 
-This data is distributed only by DFKI only to researchers on personal request. 
+This data is distributed by DFKI only to researchers upon personal request. 
 It is prohibited to redistribute, publish, modify or duplicate the data.
 
 Please contact aleksandra.gabryszak@dfki.de if you are intrested in the data.
