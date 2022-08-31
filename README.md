@@ -1,4 +1,4 @@
-#  Corpus for query-based Extractive Summarization of German-language Forum Posts
+#  Corpus for Query-based Extractive Summarization of German-language Forum Posts
 
 ## Description
 This repository contains a German data set created for query-based summarization of forum posts, originating from "Deutsche Telekom hilft" - a forum where Telekom customers ask questions about the company’s products and services. For each query, 6 - 10 forum posts were selected, containing a solution or at least some help to the customer problem expressed in the customer question, by experts. In total, the data set contains 70 queries, 668 posts and 256 summaries. The summaries are 3-5 sentences long.
